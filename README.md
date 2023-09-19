@@ -170,7 +170,7 @@ DB, 프레임워크, UI 같은 것들이 위치할 것입니다.
 
 ### UML
 
-![](https://i.imgur.com/2Lu0YWR.png)
+![ProjectManager drawio](https://github.com/Gundy93/ios-project-manager/assets/106914201/106bd60b-778b-417b-9608-7cf33ff46718)
 
 ## 🗂 폴더 구조
 
